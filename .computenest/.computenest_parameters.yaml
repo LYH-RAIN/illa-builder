@@ -1,0 +1,1 @@
+{"AdvancedOptions":false,"DockerFilePath":"Dockerfile","ServiceType":"private","AllowedRegions":["cn-hangzhou","cn-shanghai","cn-beijing"],"ArtifactSourceType":"Dockerfile","RepoName":"LYH-RAIN/illa-builder","Arch":"EcsSingle","RegionId":"cn-hangzhou","CustomParameters":""}
